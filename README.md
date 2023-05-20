@@ -1,6 +1,6 @@
 # Object-Detection
 
-![Final look](images/Ekran görüntüsü 2023-05-20 181245.jpg)
+![Final look](images/Ekran görüntüsü 2023-05-20 181245.png)
 
 
 
