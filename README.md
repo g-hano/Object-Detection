@@ -1,6 +1,6 @@
 # Object-Detection
 ## Final Look
-![image](https://github.com/Pharaoh-C/Object-Detection/assets/113353248/c4f18f48-5d10-4d72-9cab-bee7bed5903b)
+!https://github.com/Pharaoh-C/Object-Detection/blob/main/images/final.png?raw=true
 
 
 
