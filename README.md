@@ -12,7 +12,8 @@
 ![https://github.com/Pharaoh-C/Object-Detection/blob/main/images/average%20precision%20by%20class%20test.png?raw=true](https://github.com/Pharaoh-C/Object-Detection/blob/main/images/average%20precision%20by%20class%20test.png?raw=true)
 
 
-I built this project in "https://roboflow.com/". All images from 
+I built this project in "https://roboflow.com/". 
+All images from 
 * "https://www.pexels.com/"
 * "https://tr.pinterest.com/"
 * "https://www.sahibinden.com/".
