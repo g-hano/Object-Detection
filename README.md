@@ -1,6 +1,6 @@
 # Object-Detection
 
-!(./Ekran görüntüsü 2023-05-20 181245.png)
+![(./Ekran görüntüsü 2023-05-20 181245.png)](https://github.com/Pharaoh-C/Object-Detection/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-05-20%20180936.png?raw=true)
 
 
 
